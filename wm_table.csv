@@ -26,7 +26,7 @@ You cast gravity sinkhole,Good
 All creatures within 20 feet of you must make a Strength saving throw or be knocked prone.,Good
 Your speed doubles for one minute,Good
 Each creature within 30 feet of you takes 1d10 necrotic damage. You regain hit points equal to the sum of the necrotic damage dealt.,Good
-Your skin turns glassy and hard,Good
+Your skin becomes crystalline. Your AC increases by your spellcasting modifier until you finish a long rest.,Good
 Sparks crackle and hum around your body and you emit dim light for 2d4 days,Cosmetic
 You become immune to the effects of alchohol for 2d6 days,Cosmetic
 "Until you finish a long rest, every word you utter sounds normal to you but gibberish to everybody else. This does not affect your ability to cast spells.",Cosmetic
@@ -49,4 +49,3 @@ You become vulnerable to all damage for one minute,Very bad
 A hostile abberration appears within 30 feet of you.,Very bad
 You cast Ravenous Void at a random point with 300 feet of you,Very bad
 "Your eyes become large glassy orbs. You gain the ability to cast divination once per day for free. Once you have rolled this option, if cannot be rolled again.",Madness
-Your AC increases by your spellcasting modifier until you finish a long rest,Good
